@@ -15,5 +15,6 @@
 2. Segunda pista, la pista nos indico que fueramos a l a sandbox.
 3. Tercera pista, ir al gimnasio en el colegio
 4. Cuarta pista, ir al storage
-5. Quinta pista, ir al jardin en la casa 
+5. Quinta pista, ir al jardin en la casa
+6. Sexta pista, el crimen sucedió en el jardín lo hizo el carpintero con la steel ruler 
 Location of the crime is still unknown - the room must have been empty when it happened...
