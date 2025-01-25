@@ -11,6 +11,8 @@
 - [ ] Iron Poker
 
 ## Notes
-*Use this space to record your findings and deductions...*
+1. Primera pista, el jardinero nos ha indicado que nos dirijamos a la mansion.
+
+
 
 Location of the crime is still unknown - the room must have been empty when it happened...
